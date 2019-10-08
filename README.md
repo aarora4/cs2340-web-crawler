@@ -22,6 +22,9 @@ pip install selenium
 python3 seleniumOutlook.py username@gatech.edu  password
 ```
 
+Duo is difficult for the web crawler to interact with so the user must click through Duo authentication.
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
