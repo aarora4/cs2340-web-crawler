@@ -1,6 +1,6 @@
 # cs2340-web-crawler
 
-Foobar is a Python library for dealing with word pluralization.
+A Web Crawler written in Python using Selenium to delete emails from my CS2340 Class
 
 ## Demo
 
